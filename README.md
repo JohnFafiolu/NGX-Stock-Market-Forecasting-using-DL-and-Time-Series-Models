@@ -30,7 +30,7 @@ When applied to the final test set, the Hybrid Framework significantly outperfor
 1. Clone this repository to your local machine.
 2. Install the required dependencies using:
    `pip install -r requirements.txt`
-3. Open `notebooks/NGX_Hybrid_Forecasting_Model.ipynb` in Jupyter Notebook.
+3. Open `Hybrid Model for NGX ASI.ipynb` in Jupyter Notebook.
 4. Run all cells to execute the data processing, SARIMA baseline, DL tournament, and final evaluation.
 
 ## Author
