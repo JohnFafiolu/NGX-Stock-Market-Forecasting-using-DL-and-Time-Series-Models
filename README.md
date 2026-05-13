@@ -24,7 +24,7 @@ When applied to the final test set, the Hybrid Framework significantly outperfor
 * **Standalone Deep Learning MAPE:** 18.0491%
 * **Hybrid Model MAPE:** 0.4767%
 
-*(Include a screenshot of your final Zoomed-In Matplotlib chart here)*
+![Zoomed-In Forecast](hybrid_forecast_zoomed.png)
 
 ## How to Run This Project
 1. Clone this repository to your local machine.
